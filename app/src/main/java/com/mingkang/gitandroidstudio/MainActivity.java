@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.i("TAG", "onCreate: Nothing");
         Log.i("TAG", "onCreate: Nothing really");
+        Log.i("TAG", "onCreate: Nonintellectual");
     }
 }
